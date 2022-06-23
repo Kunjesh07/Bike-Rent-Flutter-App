@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535250128910",
+    "project_id": "your-bike-e842b",
+    "storage_bucket": "your-bike-e842b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535250128910:android:9e73dc04f4ebb5e9066c5f",
+        "android_client_info": {
+          "package_name": "com.example.bike_rent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535250128910-m41qghks1r0dgo7envrdjuierniavejm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMGX0Hpzxh8Jrx2IkEV70FLZg_KW6SJ2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535250128910-m41qghks1r0dgo7envrdjuierniavejm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
